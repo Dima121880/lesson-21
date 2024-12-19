@@ -3,3 +3,26 @@
   margin: 0;
   padding: 0;
 }
+
+.mobile {
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 20px;
+  color: blue;
+  padding-bottom: 20px;
+}
+
+.personal {
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 20px;
+  color: blue;
+}
+
+section {
+  border: 2px solid blue;
+  max-width: 400px;
+  border-radius: 20px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
