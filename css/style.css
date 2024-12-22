@@ -7,22 +7,31 @@
 .mobile {
   margin-top: 20px;
   margin-left: 20px;
-  font-size: 20px;
+  font-size: 16px;
   color: blue;
-  padding-bottom: 20px;
 }
 
 .personal {
   margin-top: 20px;
   margin-left: 20px;
-  font-size: 20px;
+  font-size: 16px;
   color: blue;
 }
 
 section {
   border: 2px solid blue;
   max-width: 400px;
+  height: 150px;
   border-radius: 20px;
   margin-top: 50px;
   margin-left: 50px;
+}
+.checkbox {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.button {
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: 16px;
 }
